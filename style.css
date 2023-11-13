@@ -3,7 +3,8 @@ html * {
         line-height: 1.625;
         color: #FFFFFF;
         font-family: Sans-Serif;
-a:link {
+}
+        a:link {
   color: #00BFFF;
   background-color: transparent;
   text-decoration: none;
@@ -29,5 +30,4 @@ a:active {
 .topnav {
   background-color: #000000;
   overflow: hidden;
-}
 }
