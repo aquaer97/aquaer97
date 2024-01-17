@@ -1,3 +1,4 @@
 <!DOCTYPE html>
-idź mi stąd czego tu szukasz<br />
+incopetent WWW website
+im still learning obviously
 
