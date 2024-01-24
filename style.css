@@ -5,37 +5,29 @@ body{
   font-family: Sans-Serif;
   background-color: #000000;
 }
-a:link {
-  color: #00BFFF;
+a:link{
+  color: #00FFFF;
   background-color: transparent;
   text-decoration:none;
-  border-style:inset;
-  border-color:royalblue;
-  border-radius:12px;
+  border:1px solid#00FFFF;
 }
-a:visited {
-  color: #0037FF;
-  background-color: transparent;
-  text-decoration: none;
-  border-style:inset;
-  border-color:royalblue;
-  border-radius:12px;
+a:visited{
+  color: #00FFFF;
+  background-color:transparent;
+  text-decoration:none;
+  border-style:1px solid #00FFFF;
 }
-a:hover {
-  color: #00FF00;
-  background-color: transparent;
-  text-decoration: underline;
-  border-style:inset;
-  border-color:royalblue;
-  border-radius:12px;
+a:hover{
+  color: #00FFFF;
+  background-color:transparent;
+  text-decoration:underline;
+  border-style:1px solid #00FFFF;
 }
-a:active {
-  color: #FFFF00;
+a:active{
+  color: #00FFFF;
   background-color: transparent;
   text-decoration: underline;
-  border-style:inset;
-  border-color:royalblue;
-  border-radius:12px;
+  border-style:1px solid #00FFFF;
 }
 table, th, td {
   border: 2px solid rgb(255, 255, 255);
