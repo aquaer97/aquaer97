@@ -6,7 +6,7 @@ body{
   background-color: #323232;
   margin:20px 20px 20px;
 }
-/*a:link{
+a:link{
   color: #000000;
   background-color: #FF1E56;
   text-decoration:none;
@@ -37,7 +37,7 @@ a:active{
   border:3px solid#FFAC41;
   border-radius:15px;
   padding:5px;
-}*/
+}
 table, th, td {
   border: 2px solid #FFFFFF;
   border-collapse: collapse;
