@@ -146,6 +146,10 @@ td {
 	border-style: outset;
 	text-align: center;
 	vertical-align: middle;
+	width: 750px;
+}
+th {
+	width: 150px;
 }
 
 ul li {
